@@ -19,7 +19,7 @@ Before you begin, make sure you have the following prerequisites:
 
 ## Resources
 Here are some helpful resources to guide you:
-- [YouTube: Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY) by Andrej Karpathy
+- [YouTube: Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY) by Andrej Karpathy.
 
 ## Acknowledgments
 
