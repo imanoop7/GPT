@@ -207,7 +207,7 @@ for iter in range(max_iters):
     loss.backward()
     optimizer.step()
 
-PATH ='model'
+PATH ='model.pt'
 torch.save(model, PATH)
 
 # generate from the model
